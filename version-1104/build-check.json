@@ -1,0 +1,14 @@
+{
+  "movies_parsed": 2000,
+  "detail_pages": 2000,
+  "html_pages": 2014,
+  "category_pages": 10,
+  "category_coverage": 2000,
+  "category_cards": 2000,
+  "analytics_on_all_html": true,
+  "video_sources_extracted": 150,
+  "jpg_files_in_output": 0,
+  "movies_page_cards": 2000,
+  "detail_pages_with_video_source": 2000,
+  "detail_pages_with_play_button": 2000
+}
